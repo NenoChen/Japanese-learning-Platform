@@ -1,1 +1,1231 @@
-{"version":1,"lessons":[{"id":"2026-11-15","day":3,"title":"朝の習慣と日本語の勉強","level":"N5","date":"2026-11-15","grammar":[{"pattern":"～ます／～ません","meaning":"動詞的禮貌肯定與否定形式","example":"毎日、日本語を勉強します。"},{"pattern":"～から～まで","meaning":"表示時間或地點的起點與終點","example":"九時から五時まで働きます。"}],"words":[{"id":"w1","jp":"毎日","reading":"まいにち","meaning":"每天","pos":"名詞／副詞"},{"id":"w2","jp":"朝","reading":"あさ","meaning":"早晨","pos":"名詞"},{"id":"w3","jp":"勉強","reading":"べんきょう","meaning":"學習","pos":"名詞／する動詞"},{"id":"w4","jp":"大学","reading":"だいがく","meaning":"大學","pos":"名詞"},{"id":"w5","jp":"新聞","reading":"しんぶん","meaning":"報紙、新聞","pos":"名詞"},{"id":"w6","jp":"研究室","reading":"けんきゅうしつ","meaning":"研究室","pos":"名詞"}],"articles":[{"title":"毎日の朝","category":"基礎閱讀","sentences":[{"html":"<ruby>私<rt>わたし</rt></ruby>は<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>七時<rt>しちじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。","zh":"我每天早上七點起床。"},{"html":"<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べて、<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。","zh":"吃過早餐後，我學習日文。"}]},{"title":"大学での一日","category":"日常生活","sentences":[{"html":"<ruby>今日<rt>きょう</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。","zh":"今天要去大學。"}]},{"title":"日本のニュースを読む","category":"新聞閱讀示範","sentences":[{"html":"<ruby>私<rt>わたし</rt></ruby>は<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。","zh":"我閱讀報紙。"}],"note":"此篇為教學示範，並非已查證的當日新聞。"},{"title":"東京大学について","category":"延伸閱讀","sentences":[{"html":"<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>には<ruby>多<rt>おお</rt></ruby>くの<ruby>学生<rt>がくせい</rt></ruby>がいます。","zh":"東京大學有許多學生。"}]},{"title":"研究室の生活","category":"延伸閱讀","sentences":[{"html":"<ruby>研究室<rt>けんきゅうしつ</rt></ruby>で<ruby>先生<rt>せんせい</rt></ruby>と<ruby>話<rt>はな</rt></ruby>します。","zh":"在研究室與老師交談。"}]}],"quiz":[{"q":"文章中，主角每天早上幾點起床？","options":["六點","七點","八點","九點"],"answer":1,"explanation":"七時（しちじ）是七點。"},{"q":"「大学」的讀音是？","options":["だいがく","たいがく","だいこう","がっこう"],"answer":0,"explanation":"大学（だいがく）＝大學。"},{"q":"「毎日」的意思是？","options":["昨天","明天","每天","每週"],"answer":2,"explanation":"毎日（まいにち）＝每天。"}]}]}
+{
+  "version": 1,
+  "lessons": [
+    {
+      "id": "2026-11-13",
+      "date": "2026-11-13",
+      "day": 1,
+      "title": "從五十音到 N5",
+      "level": "N5",
+      "articles": [
+        {
+          "title": "わたしの朝",
+          "category": "基礎閱讀",
+          "sentences": [
+            {
+              "html": "わたしは<ruby>学生<rt>がくせい</rt></ruby>です。<ruby>朝<rt>あさ</rt></ruby>はパンを<ruby>食<rt>た</rt></ruby>べます。<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。<ruby>今日<rt>きょう</rt></ruby>も<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<ruby>夜<rt>よる</rt></ruby>は家で<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。<ruby>毎日<rt>まいにち</rt></ruby>、すこし<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+              "zh": "我是一名學生。早上吃麵包、喝水。我讀日文書，今天也會學日文。我去學校。晚上在家讀書。每天都稍微學習一些。"
+            }
+          ],
+          "note": ""
+        },
+        {
+          "title": "一週間の予定",
+          "category": "星期系列",
+          "sentences": [
+            {
+              "html": "わたしは<ruby>月曜日<rt>げつようび</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<ruby>火曜日<rt>かようび</rt></ruby>も<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<ruby>水曜日<rt>すいようび</rt></ruby>は<ruby>図書館<rt>としょかん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<ruby>木曜日<rt>もくようび</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。<ruby>金曜日<rt>きんようび</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>と<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。<ruby>土曜日<rt>どようび</rt></ruby>は家で<ruby>休<rt>やす</rt></ruby>みます。<ruby>日曜日<rt>にちようび</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>とご飯を<ruby>食<rt>た</rt></ruby>べます。",
+              "zh": "我星期一去學校，星期二也去學校。星期三去圖書館。星期四學日文。星期五和朋友一起讀書。星期六在家休息，星期日和家人一起吃飯。"
+            }
+          ],
+          "note": ""
+        },
+        {
+          "title": "東京の天気",
+          "category": "新聞閱讀",
+          "sentences": [
+            {
+              "html": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>のニュースです。<ruby>金曜日<rt>きんようび</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>は、<ruby>朝<rt>あさ</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>りです。<ruby>昼前<rt>ひるまえ</rt></ruby>から<ruby>晴<rt>は</rt></ruby>れます。これは<ruby>気象庁<rt>きしょうちょう</rt></ruby>の<ruby>天気予報<rt>てんきよほう</rt></ruby>です。わたしは<ruby>朝<rt>あさ</rt></ruby>、<ruby>天気予報<rt>てんきよほう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<ruby>空<rt>そら</rt></ruby>を見ます。",
+              "zh": "這是東京天氣的新聞資訊。星期五的東京，早上是陰天，中午以前開始轉晴。這是日本氣象廳的天氣預報。我早上讀天氣預報，然後去學校、看看天空。"
+            }
+          ],
+          "note": "依講義所列氣象預報改寫，非當日實測。"
+        },
+        {
+          "title": "東京大学の図書館",
+          "category": "延伸閱讀",
+          "sentences": [
+            {
+              "html": "わたしは<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>です。<ruby>朝<rt>あさ</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<ruby>大学<rt>だいがく</rt></ruby>の<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。<ruby>今日<rt>きょう</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>です。<ruby>友達<rt>ともだち</rt></ruby>は<ruby>英語<rt>えいご</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。昼は<ruby>食堂<rt>しょくどう</rt></ruby>でご飯を<ruby>食<rt>た</rt></ruby>べます。<ruby>夕方<rt>ゆうがた</rt></ruby>、<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+              "zh": "我是東京大學的學生。早上去大學，在大學圖書館讀書。今天讀的是日文書，朋友讀的是英文書。中午在食堂吃飯。傍晚去研究室。"
+            }
+          ],
+          "note": "虛構教學情境。"
+        },
+        {
+          "title": "半導体の研究室",
+          "category": "延伸閱讀",
+          "sentences": [
+            {
+              "html": "わたしは<ruby>研究室<rt>けんきゅうしつ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>です。<ruby>今日<rt>きょう</rt></ruby>は<ruby>半導体<rt>はんどうたい</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。<ruby>先生<rt>せんせい</rt></ruby>は<ruby>研究室<rt>けんきゅうしつ</rt></ruby>にいます。わたしはノートに<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。<ruby>午後<rt>ごご</rt></ruby>はデータを見ます。<ruby>夜<rt>よる</rt></ruby>は家に<ruby>帰<rt>かえ</rt></ruby>ります。<ruby>研究<rt>けんきゅう</rt></ruby>はむずかしいです。でも、<ruby>毎日<rt>まいにち</rt></ruby>、<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+              "zh": "我是研究室的學生。今天讀半導體的書。老師在研究室裡。我在筆記本上寫日文。下午看資料，晚上回家。研究很難，但是每天都會學習。"
+            }
+          ],
+          "note": "虛構教學情境。"
+        }
+      ],
+      "words": [
+        {
+          "id": "w1",
+          "jp": "学生",
+          "reading": "がくせい",
+          "meaning": "學生",
+          "pos": "單字"
+        },
+        {
+          "id": "w2",
+          "jp": "朝",
+          "reading": "あさ",
+          "meaning": "早上",
+          "pos": "單字"
+        },
+        {
+          "id": "w3",
+          "jp": "水",
+          "reading": "みず",
+          "meaning": "水",
+          "pos": "單字"
+        },
+        {
+          "id": "w4",
+          "jp": "飲みます",
+          "reading": "のみます",
+          "meaning": "喝",
+          "pos": "單字"
+        },
+        {
+          "id": "w5",
+          "jp": "日本語",
+          "reading": "にほんご",
+          "meaning": "日語",
+          "pos": "單字"
+        },
+        {
+          "id": "w6",
+          "jp": "本",
+          "reading": "ほん",
+          "meaning": "書",
+          "pos": "單字"
+        },
+        {
+          "id": "w7",
+          "jp": "勉強します",
+          "reading": "べんきょうします",
+          "meaning": "學習",
+          "pos": "單字"
+        },
+        {
+          "id": "w8",
+          "jp": "毎日",
+          "reading": "まいにち",
+          "meaning": "每天",
+          "pos": "單字"
+        },
+        {
+          "id": "w9",
+          "jp": "学校",
+          "reading": "がっこう",
+          "meaning": "學校",
+          "pos": "單字"
+        },
+        {
+          "id": "w10",
+          "jp": "行きます",
+          "reading": "いきます",
+          "meaning": "去",
+          "pos": "單字"
+        },
+        {
+          "id": "w11",
+          "jp": "月曜日",
+          "reading": "げつようび",
+          "meaning": "星期一",
+          "pos": "單字"
+        },
+        {
+          "id": "w12",
+          "jp": "水曜日",
+          "reading": "すいようび",
+          "meaning": "星期三",
+          "pos": "單字"
+        },
+        {
+          "id": "w13",
+          "jp": "金曜日",
+          "reading": "きんようび",
+          "meaning": "星期五",
+          "pos": "單字"
+        },
+        {
+          "id": "w14",
+          "jp": "図書館",
+          "reading": "としょかん",
+          "meaning": "圖書館",
+          "pos": "單字"
+        },
+        {
+          "id": "w15",
+          "jp": "東京",
+          "reading": "とうきょう",
+          "meaning": "東京",
+          "pos": "單字"
+        },
+        {
+          "id": "w16",
+          "jp": "天気",
+          "reading": "てんき",
+          "meaning": "天氣",
+          "pos": "單字"
+        },
+        {
+          "id": "w17",
+          "jp": "晴れます",
+          "reading": "はれます",
+          "meaning": "放晴",
+          "pos": "單字"
+        },
+        {
+          "id": "w18",
+          "jp": "研究室",
+          "reading": "けんきゅうしつ",
+          "meaning": "研究室",
+          "pos": "單字"
+        },
+        {
+          "id": "w19",
+          "jp": "先生",
+          "reading": "せんせい",
+          "meaning": "老師",
+          "pos": "單字"
+        },
+        {
+          "id": "w20",
+          "jp": "今日",
+          "reading": "きょう",
+          "meaning": "今天",
+          "pos": "單字"
+        }
+      ],
+      "series": {
+        "title": "星期一到星期日",
+        "words": [
+          {
+            "jp": "月曜日",
+            "reading": "げつようび",
+            "meaning": "星期一"
+          },
+          {
+            "jp": "火曜日",
+            "reading": "かようび",
+            "meaning": "星期二"
+          },
+          {
+            "jp": "水曜日",
+            "reading": "すいようび",
+            "meaning": "星期三"
+          },
+          {
+            "jp": "木曜日",
+            "reading": "もくようび",
+            "meaning": "星期四"
+          },
+          {
+            "jp": "金曜日",
+            "reading": "きんようび",
+            "meaning": "星期五"
+          },
+          {
+            "jp": "土曜日",
+            "reading": "どようび",
+            "meaning": "星期六"
+          },
+          {
+            "jp": "日曜日",
+            "reading": "にちようび",
+            "meaning": "星期日"
+          }
+        ]
+      },
+      "grammar": [
+        {
+          "pattern": "A は B です",
+          "meaning": "主題與身分",
+          "example": "わたしは学生です。"
+        },
+        {
+          "pattern": "名詞 を 動詞ます",
+          "meaning": "動作對象",
+          "example": "水を飲みます。"
+        },
+        {
+          "pattern": "時間／地點 に 動詞ます",
+          "meaning": "時間與目的地",
+          "example": "月曜日に学校に行きます。"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "わたし（　）学生です。",
+          "options": [
+            "は",
+            "を",
+            "に"
+          ],
+          "answer": 0,
+          "explanation": "正確答案：は。"
+        },
+        {
+          "q": "水（　）飲みます。",
+          "options": [
+            "へ",
+            "を",
+            "の"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：を。"
+        },
+        {
+          "q": "月曜日（　）学校に行きます。",
+          "options": [
+            "で",
+            "を",
+            "に"
+          ],
+          "answer": 2,
+          "explanation": "正確答案：に。"
+        },
+        {
+          "q": "「学校に行きます」是什麼意思？",
+          "options": [
+            "在學校吃飯",
+            "去學校",
+            "學校很大"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：去學校。"
+        },
+        {
+          "q": "「金曜日」的讀音是？",
+          "options": [
+            "きんようび",
+            "かようび",
+            "にちようび"
+          ],
+          "answer": 0,
+          "explanation": "正確答案：きんようび。"
+        },
+        {
+          "q": "「図書館」的讀音是？",
+          "options": [
+            "としょうかん",
+            "としょかん",
+            "どしょかん"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：としょかん。"
+        },
+        {
+          "q": "「本を読みます」的動作對象是？",
+          "options": [
+            "本",
+            "読みます",
+            "わたし"
+          ],
+          "answer": 0,
+          "explanation": "正確答案：本。"
+        },
+        {
+          "q": "東京星期五從什麼時段開始放晴？",
+          "options": [
+            "深夜",
+            "中午以前",
+            "傍晚"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：中午以前。"
+        },
+        {
+          "q": "「研究室に行きます」的 に 代表？",
+          "options": [
+            "動作對象",
+            "目的地",
+            "過去式"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：目的地。"
+        },
+        {
+          "q": "哪個原本是片假名詞？",
+          "options": [
+            "学校",
+            "データ",
+            "日本語"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：データ。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14",
+      "date": "2026-11-14",
+      "day": 2,
+      "title": "學會地點、方向與同行者",
+      "level": "N5",
+      "articles": [
+        {
+          "title": "土曜日の朝",
+          "category": "基礎閱讀",
+          "sentences": [
+            {
+              "html": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>土曜日<rt>どようび</rt></ruby>です。わたしは<ruby>朝<rt>あさ</rt></ruby><ruby>七時<rt>しちじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。家で<ruby>朝<rt>あさ</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べます。<ruby>八時<rt>はちじ</rt></ruby>に<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。<ruby>午後<rt>ごご</rt></ruby>は家へ<ruby>帰<rt>かえ</rt></ruby>ります。",
+              "zh": "今天是星期六。我早上七點起床，在家吃早餐。八點去圖書館，在圖書館學日文。下午回家。"
+            }
+          ],
+          "note": ""
+        },
+        {
+          "title": "友達と駅へ",
+          "category": "日常生活",
+          "sentences": [
+            {
+              "html": "<ruby>日曜日<rt>にちようび</rt></ruby>に、わたしは<ruby>友達<rt>ともだち</rt></ruby>と<ruby>駅<rt>えき</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>小<rt>ちい</rt></ruby>さいカフェがあります。そこで<ruby>友達<rt>ともだち</rt></ruby>とお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。<ruby>友達<rt>ともだち</rt></ruby>はパンを<ruby>食<rt>た</rt></ruby>べます。<ruby>午後<rt>ごご</rt></ruby><ruby>二時<rt>にじ</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>ます。そのあと、<ruby>公園<rt>こうえん</rt></ruby>で<ruby>少<rt>すこ</rt></ruby>し<ruby>休<rt>やす</rt></ruby>みます。",
+              "zh": "星期日，我和朋友去車站。車站附近有一家小咖啡館。我們在那裡一起喝茶，朋友吃麵包。下午兩點離開店裡，之後在公園稍微休息。"
+            }
+          ],
+          "note": ""
+        },
+        {
+          "title": "宮城県の週末の天気",
+          "category": "新聞閱讀",
+          "sentences": [
+            {
+              "html": "日<ruby>本<rt>ほん</rt></ruby>の<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>大崎市<rt>おおさきし</rt></ruby>の<ruby>天気予報<rt>てんきよほう</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しました。<ruby>土曜日<rt>どようび</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>から<ruby>晴<rt>は</rt></ruby>れますが、<ruby>午後<rt>ごご</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>ります。昼の<ruby>気温<rt>きおん</rt></ruby>は<ruby>二十度<rt>にじゅうど</rt></ruby>ぐらいです。<ruby>日曜日<rt>にちようび</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る<ruby>時間<rt>じかん</rt></ruby>もあります。",
+              "zh": "日本氣象廳發布了宮城縣大崎市的天氣預報。星期六從早上開始是晴天，但下午會轉陰。白天氣溫大約攝氏二十度。星期日有些時段會下雨。"
+            }
+          ],
+          "note": "依講義所列氣象預報改寫，非當日實測。"
+        },
+        {
+          "title": "東京大学のキャンパス",
+          "category": "延伸閱讀",
+          "sentences": [
+            {
+              "html": "<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>のキャンパスは、<ruby>勉強<rt>べんきょう</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>です。ここでは、<ruby>学生<rt>がくせい</rt></ruby>が<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。ある<ruby>学生<rt>がくせい</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby><ruby>九時<rt>くじ</rt></ruby>に<ruby>大学<rt>だいがく</rt></ruby>へ<ruby>来<rt>き</rt></ruby>ます。<ruby>午後<rt>ごご</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>と<ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。<ruby>夕方<rt>ゆうがた</rt></ruby>に<ruby>研究室<rt>けんきゅうしつ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+              "zh": "東京大學的校園是學習的地方。在這裡，學生會在圖書館讀書。有一名學生早上九點來大學，下午和朋友在教室學日文，傍晚去研究室。這是學習用的虛構日常情境。"
+            }
+          ],
+          "note": "虛構教學情境。"
+        },
+        {
+          "title": "研究室の一日",
+          "category": "延伸閱讀",
+          "sentences": [
+            {
+              "html": "わたしは<ruby>大学<rt>だいがく</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>で<ruby>半導体<rt>はんどうたい</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。<ruby>朝<rt>あさ</rt></ruby><ruby>九時<rt>くじ</rt></ruby>に<ruby>研究室<rt>けんきゅうしつ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。<ruby>先生<rt>せんせい</rt></ruby>と<ruby>実験<rt>じっけん</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>をします。<ruby>午後<rt>ごご</rt></ruby>はコンピューターでラマンのデータを見ます。<ruby>友達<rt>ともだち</rt></ruby>と<ruby>結果<rt>けっか</rt></ruby>を見ます。<ruby>夕方<rt>ゆうがた</rt></ruby>はノートに<ruby>大切<rt>たいせつ</rt></ruby>なことを<ruby>書<rt>か</rt></ruby>きます。<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+              "zh": "我在大學研究室學習半導體。早上九點去研究室，和老師談實驗。下午用電腦看拉曼數據，和朋友一起查看結果。傍晚在筆記本寫下重要的事情。每天一點一點地學習。"
+            }
+          ],
+          "note": "虛構教學情境。"
+        }
+      ],
+      "words": [
+        {
+          "id": "w1",
+          "jp": "家",
+          "reading": "いえ",
+          "meaning": "家",
+          "pos": "單字"
+        },
+        {
+          "id": "w2",
+          "jp": "図書館",
+          "reading": "としょかん",
+          "meaning": "圖書館",
+          "pos": "單字"
+        },
+        {
+          "id": "w3",
+          "jp": "行きます",
+          "reading": "いきます",
+          "meaning": "去",
+          "pos": "單字"
+        },
+        {
+          "id": "w4",
+          "jp": "帰ります",
+          "reading": "かえります",
+          "meaning": "回家",
+          "pos": "單字"
+        },
+        {
+          "id": "w5",
+          "jp": "友達",
+          "reading": "ともだち",
+          "meaning": "朋友",
+          "pos": "單字"
+        },
+        {
+          "id": "w6",
+          "jp": "駅",
+          "reading": "えき",
+          "meaning": "車站",
+          "pos": "單字"
+        },
+        {
+          "id": "w7",
+          "jp": "近く",
+          "reading": "ちかく",
+          "meaning": "附近",
+          "pos": "單字"
+        },
+        {
+          "id": "w8",
+          "jp": "お茶",
+          "reading": "おちゃ",
+          "meaning": "茶",
+          "pos": "單字"
+        },
+        {
+          "id": "w9",
+          "jp": "飲みます",
+          "reading": "のみます",
+          "meaning": "喝",
+          "pos": "單字"
+        },
+        {
+          "id": "w10",
+          "jp": "店",
+          "reading": "みせ",
+          "meaning": "店",
+          "pos": "單字"
+        },
+        {
+          "id": "w11",
+          "jp": "公園",
+          "reading": "こうえん",
+          "meaning": "公園",
+          "pos": "單字"
+        },
+        {
+          "id": "w12",
+          "jp": "天気予報",
+          "reading": "てんきよほう",
+          "meaning": "天氣預報",
+          "pos": "單字"
+        },
+        {
+          "id": "w13",
+          "jp": "晴れます",
+          "reading": "はれます",
+          "meaning": "放晴",
+          "pos": "單字"
+        },
+        {
+          "id": "w14",
+          "jp": "曇ります",
+          "reading": "くもります",
+          "meaning": "轉陰",
+          "pos": "單字"
+        },
+        {
+          "id": "w15",
+          "jp": "大学",
+          "reading": "だいがく",
+          "meaning": "大學",
+          "pos": "單字"
+        },
+        {
+          "id": "w16",
+          "jp": "先生",
+          "reading": "せんせい",
+          "meaning": "老師",
+          "pos": "單字"
+        },
+        {
+          "id": "w17",
+          "jp": "今日",
+          "reading": "きょう",
+          "meaning": "今天",
+          "pos": "單字"
+        },
+        {
+          "id": "w18",
+          "jp": "朝",
+          "reading": "あさ",
+          "meaning": "早上",
+          "pos": "單字"
+        },
+        {
+          "id": "w19",
+          "jp": "日本語",
+          "reading": "にほんご",
+          "meaning": "日語",
+          "pos": "單字"
+        },
+        {
+          "id": "w20",
+          "jp": "勉強します",
+          "reading": "べんきょうします",
+          "meaning": "學習",
+          "pos": "單字"
+        }
+      ],
+      "series": {
+        "title": "一點到十二點",
+        "words": [
+          {
+            "jp": "一時",
+            "reading": "いちじ",
+            "meaning": "1點"
+          },
+          {
+            "jp": "二時",
+            "reading": "にじ",
+            "meaning": "2點"
+          },
+          {
+            "jp": "三時",
+            "reading": "さんじ",
+            "meaning": "3點"
+          },
+          {
+            "jp": "四時",
+            "reading": "よじ",
+            "meaning": "4點"
+          },
+          {
+            "jp": "五時",
+            "reading": "ごじ",
+            "meaning": "5點"
+          },
+          {
+            "jp": "六時",
+            "reading": "ろくじ",
+            "meaning": "6點"
+          },
+          {
+            "jp": "七時",
+            "reading": "しちじ",
+            "meaning": "7點"
+          },
+          {
+            "jp": "八時",
+            "reading": "はちじ",
+            "meaning": "8點"
+          },
+          {
+            "jp": "九時",
+            "reading": "くじ",
+            "meaning": "9點"
+          },
+          {
+            "jp": "十時",
+            "reading": "じゅうじ",
+            "meaning": "10點"
+          },
+          {
+            "jp": "十一時",
+            "reading": "じゅういちじ",
+            "meaning": "11點"
+          },
+          {
+            "jp": "十二時",
+            "reading": "じゅうにじ",
+            "meaning": "12點"
+          }
+        ]
+      },
+      "grammar": [
+        {
+          "pattern": "場所＋で",
+          "meaning": "動作發生地點",
+          "example": "図書館で勉強します。"
+        },
+        {
+          "pattern": "場所＋へ",
+          "meaning": "移動方向",
+          "example": "学校へ行きます。"
+        },
+        {
+          "pattern": "人＋と",
+          "meaning": "和誰一起",
+          "example": "友達と行きます。"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "「四時」正確讀法？",
+          "options": [
+            "しじ",
+            "よじ",
+            "くじ"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：よじ。"
+        },
+        {
+          "q": "「九時」正確讀法？",
+          "options": [
+            "くじ",
+            "きゅうじ",
+            "ここのじ"
+          ],
+          "answer": 0,
+          "explanation": "正確答案：くじ。"
+        },
+        {
+          "q": "「しちじ」是幾點？",
+          "options": [
+            "六點",
+            "七點",
+            "八點"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：七點。"
+        },
+        {
+          "q": "「午後二時」是什麼時候？",
+          "options": [
+            "下午兩點",
+            "上午兩點",
+            "下午九點"
+          ],
+          "answer": 0,
+          "explanation": "正確答案：下午兩點。"
+        },
+        {
+          "q": "哪一個表示十一點？",
+          "options": [
+            "十一時",
+            "十二時",
+            "十時"
+          ],
+          "answer": 0,
+          "explanation": "正確答案：十一時。"
+        },
+        {
+          "q": "主角幾點去圖書館？",
+          "options": [
+            "七點",
+            "八點",
+            "九點"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：八點。"
+        },
+        {
+          "q": "主角和誰去車站？",
+          "options": [
+            "老師",
+            "朋友",
+            "家人"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：朋友。"
+        },
+        {
+          "q": "星期六下午的天氣如何？",
+          "options": [
+            "多雲",
+            "下雪",
+            "很熱"
+          ],
+          "answer": 0,
+          "explanation": "正確答案：多雲。"
+        },
+        {
+          "q": "虛構學生幾點到大學？",
+          "options": [
+            "七點",
+            "八點",
+            "九點"
+          ],
+          "answer": 2,
+          "explanation": "正確答案：九點。"
+        },
+        {
+          "q": "傍晚在筆記本寫什麼？",
+          "options": [
+            "明天的天氣",
+            "重要的事情",
+            "車站名稱"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：重要的事情。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15",
+      "date": "2026-11-15",
+      "day": 3,
+      "title": "日曜日の勉強",
+      "level": "N5",
+      "articles": [
+        {
+          "title": "日曜日の朝",
+          "category": "基礎閱讀",
+          "sentences": [
+            {
+              "html": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>日曜日<rt>にちようび</rt></ruby>です。<ruby>私<rt>わたし</rt></ruby>は<ruby>七時<rt>しちじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。<ruby>朝<rt>あさ</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べます。それから、<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。<ruby>今日<rt>きょう</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きません。<ruby>九時<rt>くじ</rt></ruby>から<ruby>十時<rt>じゅうじ</rt></ruby>まで、家で<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。<ruby>午後<rt>ごご</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。<ruby>夜<rt>よる</rt></ruby>はテレビを見ます。<ruby>明日<rt>あした</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+              "zh": "今天是星期日。我七點起床，吃早餐，然後喝水。今天不去學校。我從九點到十點在家學日文。下午看書，晚上看電視。明天要去學校。"
+            }
+          ],
+          "note": ""
+        },
+        {
+          "title": "家族と買い物",
+          "category": "日常生活",
+          "sentences": [
+            {
+              "html": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>は<ruby>母<rt>はは</rt></ruby>とスーパーへ<ruby>行<rt>い</rt></ruby>きます。スーパーでパンと<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。<ruby>父<rt>ちち</rt></ruby>はスーパーへ<ruby>行<rt>い</rt></ruby>きません。<ruby>父<rt>ちち</rt></ruby>は家で<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。<ruby>私<rt>わたし</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby><ruby>二時<rt>にじ</rt></ruby>から<ruby>三時<rt>さんじ</rt></ruby>まで、<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。<ruby>明日<rt>あした</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしますか。<ruby>私<rt>わたし</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。そして、<ruby>友達<rt>ともだち</rt></ruby>とごはんを<ruby>食<rt>た</rt></ruby>べます。",
+              "zh": "今天早上，我和媽媽去超市，在超市買麵包和牛奶。爸爸不去超市，而是在家看報紙。我從下午兩點到三點在圖書館學日文。明天要做什麼呢？我要去學校，然後和朋友吃飯。"
+            }
+          ],
+          "note": ""
+        },
+        {
+          "title": "日曜日の日本の天気",
+          "category": "新聞閱讀",
+          "sentences": [
+            {
+              "html": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>十五日<rt>じゅうごにち</rt></ruby>です。<ruby>日曜日<rt>にちようび</rt></ruby>の日<ruby>本<rt>ほん</rt></ruby>は、<ruby>多<rt>おお</rt></ruby>くの<ruby>所<rt>ところ</rt></ruby>で<ruby>雨<rt>あめ</rt></ruby>の<ruby>予報<rt>よほう</rt></ruby>です。<ruby>西日本<rt>にしにほん</rt></ruby>では、<ruby>午前<rt>ごぜん</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る<ruby>予報<rt>よほう</rt></ruby>です。<ruby>午後<rt>ごご</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>天気<rt>てんき</rt></ruby>がよくなる<ruby>予報<rt>よほう</rt></ruby>です。<ruby>関東<rt>かんとう</rt></ruby>と<ruby>東北<rt>とうほく</rt></ruby>でも<ruby>雨<rt>あめ</rt></ruby>の<ruby>予報<rt>よほう</rt></ruby>です。<ruby>北海道<rt>ほっかいどう</rt></ruby>でも<ruby>雨<rt>あめ</rt></ruby>の<ruby>予報<rt>よほう</rt></ruby>です。<ruby>私<rt>わたし</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>、<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちます。",
+              "zh": "今天是十五日。根據預報，星期日日本很多地方會下雨。日本西部預計上午下雨，下午天氣會稍微好轉。關東和東北也預報有雨，北海道同樣預報會下雨。我今天會帶傘。"
+            }
+          ],
+          "note": "依講義所列氣象預報改寫，非當日實測。"
+        },
+        {
+          "title": "東京大学の写真",
+          "category": "延伸閱讀",
+          "sentences": [
+            {
+              "html": "<ruby>私<rt>わたし</rt></ruby>は日<ruby>本<rt>ほん</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>があります。<ruby>今日<rt>きょう</rt></ruby>、<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を見ます。<ruby>写真<rt>しゃしん</rt></ruby>には大きな<ruby>建物<rt>たてもの</rt></ruby>と<ruby>木<rt>き</rt></ruby>があります。<ruby>私<rt>わたし</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。いつか<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>したいです。<ruby>九時<rt>くじ</rt></ruby>から<ruby>十時<rt>じゅうじ</rt></ruby>まで、<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>練習<rt>れんしゅう</rt></ruby>します。まだ<ruby>上手<rt>じょうず</rt></ruby>ではありませんが、<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>し<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+              "zh": "我對日本的大學很有興趣。今天我看東京大學的照片，照片裡有大型建築和樹木。我讀日文書，希望有一天能在東京大學學習。我從九點到十點練習日文。雖然現在還不熟練，但每天都會稍微學一些。"
+            }
+          ],
+          "note": "虛構教學情境。"
+        },
+        {
+          "title": "研究室と日本語",
+          "category": "延伸閱讀",
+          "sentences": [
+            {
+              "html": "<ruby>研究室<rt>けんきゅうしつ</rt></ruby>では、<ruby>学生<rt>がくせい</rt></ruby>と<ruby>先生<rt>せんせい</rt></ruby>が<ruby>実験<rt>じっけん</rt></ruby>をします。<ruby>月曜日<rt>げつようび</rt></ruby>から<ruby>金曜日<rt>きんようび</rt></ruby>まで、<ruby>研究室<rt>けんきゅうしつ</rt></ruby>で<ruby>半導体<rt>はんどうたい</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>をします。<ruby>午前<rt>ごぜん</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。<ruby>午後<rt>ごご</rt></ruby>はパソコンでデータを見ます。<ruby>今日<rt>きょう</rt></ruby>は<ruby>日曜日<rt>にちようび</rt></ruby>です。<ruby>今日<rt>きょう</rt></ruby>は<ruby>研究室<rt>けんきゅうしつ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きません。家で<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。<ruby>明日<rt>あした</rt></ruby>は<ruby>研究室<rt>けんきゅうしつ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+              "zh": "在研究室裡，學生和老師做實驗。從星期一到星期五，在研究室學習半導體相關知識。上午看書，下午用電腦看資料。今天是星期日，所以今天不去研究室，而是在家學日文。明天要去研究室。"
+            }
+          ],
+          "note": "虛構教學情境。"
+        }
+      ],
+      "words": [
+        {
+          "id": "w1",
+          "jp": "起きます",
+          "reading": "おきます",
+          "meaning": "起床",
+          "pos": "單字"
+        },
+        {
+          "id": "w2",
+          "jp": "食べます",
+          "reading": "たべます",
+          "meaning": "吃",
+          "pos": "單字"
+        },
+        {
+          "id": "w3",
+          "jp": "飲みます",
+          "reading": "のみます",
+          "meaning": "喝",
+          "pos": "單字"
+        },
+        {
+          "id": "w4",
+          "jp": "行きます",
+          "reading": "いきます",
+          "meaning": "去",
+          "pos": "單字"
+        },
+        {
+          "id": "w5",
+          "jp": "見ます",
+          "reading": "みます",
+          "meaning": "看",
+          "pos": "單字"
+        },
+        {
+          "id": "w6",
+          "jp": "読みます",
+          "reading": "よみます",
+          "meaning": "閱讀",
+          "pos": "單字"
+        },
+        {
+          "id": "w7",
+          "jp": "買います",
+          "reading": "かいます",
+          "meaning": "買",
+          "pos": "單字"
+        },
+        {
+          "id": "w8",
+          "jp": "勉強します",
+          "reading": "べんきょうします",
+          "meaning": "學習",
+          "pos": "單字"
+        },
+        {
+          "id": "w9",
+          "jp": "今日",
+          "reading": "きょう",
+          "meaning": "今天",
+          "pos": "單字"
+        },
+        {
+          "id": "w10",
+          "jp": "明日",
+          "reading": "あした",
+          "meaning": "明天",
+          "pos": "單字"
+        },
+        {
+          "id": "w11",
+          "jp": "朝",
+          "reading": "あさ",
+          "meaning": "早上",
+          "pos": "單字"
+        },
+        {
+          "id": "w12",
+          "jp": "午後",
+          "reading": "ごご",
+          "meaning": "下午",
+          "pos": "單字"
+        },
+        {
+          "id": "w13",
+          "jp": "夜",
+          "reading": "よる",
+          "meaning": "晚上",
+          "pos": "單字"
+        },
+        {
+          "id": "w14",
+          "jp": "家",
+          "reading": "いえ",
+          "meaning": "家",
+          "pos": "單字"
+        },
+        {
+          "id": "w15",
+          "jp": "学校",
+          "reading": "がっこう",
+          "meaning": "學校",
+          "pos": "單字"
+        },
+        {
+          "id": "w16",
+          "jp": "図書館",
+          "reading": "としょかん",
+          "meaning": "圖書館",
+          "pos": "單字"
+        },
+        {
+          "id": "w17",
+          "jp": "雨",
+          "reading": "あめ",
+          "meaning": "雨",
+          "pos": "單字"
+        },
+        {
+          "id": "w18",
+          "jp": "傘",
+          "reading": "かさ",
+          "meaning": "雨傘",
+          "pos": "單字"
+        }
+      ],
+      "series": {
+        "title": "日期 1 日至 31 日",
+        "words": [
+          {
+            "jp": "一日",
+            "reading": "ついたち",
+            "meaning": "1日"
+          },
+          {
+            "jp": "二日",
+            "reading": "ふつか",
+            "meaning": "2日"
+          },
+          {
+            "jp": "三日",
+            "reading": "みっか",
+            "meaning": "3日"
+          },
+          {
+            "jp": "四日",
+            "reading": "よっか",
+            "meaning": "4日"
+          },
+          {
+            "jp": "五日",
+            "reading": "いつか",
+            "meaning": "5日"
+          },
+          {
+            "jp": "六日",
+            "reading": "むいか",
+            "meaning": "6日"
+          },
+          {
+            "jp": "七日",
+            "reading": "なのか",
+            "meaning": "7日"
+          },
+          {
+            "jp": "八日",
+            "reading": "ようか",
+            "meaning": "8日"
+          },
+          {
+            "jp": "九日",
+            "reading": "ここのか",
+            "meaning": "9日"
+          },
+          {
+            "jp": "十日",
+            "reading": "とおか",
+            "meaning": "10日"
+          },
+          {
+            "jp": "十一日",
+            "reading": "じゅういちにち",
+            "meaning": "11日"
+          },
+          {
+            "jp": "十二日",
+            "reading": "じゅうににち",
+            "meaning": "12日"
+          },
+          {
+            "jp": "十三日",
+            "reading": "じゅうさんにち",
+            "meaning": "13日"
+          },
+          {
+            "jp": "十四日",
+            "reading": "じゅうよっか",
+            "meaning": "14日"
+          },
+          {
+            "jp": "十五日",
+            "reading": "じゅうごにち",
+            "meaning": "15日"
+          },
+          {
+            "jp": "十六日",
+            "reading": "じゅうろくにち",
+            "meaning": "16日"
+          },
+          {
+            "jp": "十七日",
+            "reading": "じゅうしちにち",
+            "meaning": "17日"
+          },
+          {
+            "jp": "十八日",
+            "reading": "じゅうはちにち",
+            "meaning": "18日"
+          },
+          {
+            "jp": "十九日",
+            "reading": "じゅうくにち",
+            "meaning": "19日"
+          },
+          {
+            "jp": "二十日",
+            "reading": "はつか",
+            "meaning": "20日"
+          },
+          {
+            "jp": "二十一日",
+            "reading": "にじゅういちにち",
+            "meaning": "21日"
+          },
+          {
+            "jp": "二十二日",
+            "reading": "にじゅうににち",
+            "meaning": "22日"
+          },
+          {
+            "jp": "二十三日",
+            "reading": "にじゅうさんにち",
+            "meaning": "23日"
+          },
+          {
+            "jp": "二十四日",
+            "reading": "にじゅうよっか",
+            "meaning": "24日"
+          },
+          {
+            "jp": "二十五日",
+            "reading": "にじゅうごにち",
+            "meaning": "25日"
+          },
+          {
+            "jp": "二十六日",
+            "reading": "にじゅうろくにち",
+            "meaning": "26日"
+          },
+          {
+            "jp": "二十七日",
+            "reading": "にじゅうしちにち",
+            "meaning": "27日"
+          },
+          {
+            "jp": "二十八日",
+            "reading": "にじゅうはちにち",
+            "meaning": "28日"
+          },
+          {
+            "jp": "二十九日",
+            "reading": "にじゅうくにち",
+            "meaning": "29日"
+          },
+          {
+            "jp": "三十日",
+            "reading": "さんじゅうにち",
+            "meaning": "30日"
+          },
+          {
+            "jp": "三十一日",
+            "reading": "さんじゅういちにち",
+            "meaning": "31日"
+          }
+        ]
+      },
+      "grammar": [
+        {
+          "pattern": "～ません",
+          "meaning": "動詞禮貌否定",
+          "example": "今日は学校へ行きません。"
+        },
+        {
+          "pattern": "～ますか",
+          "meaning": "動詞禮貌問句",
+          "example": "明日は学校へ行きますか。"
+        },
+        {
+          "pattern": "～から～まで",
+          "meaning": "起點到終點",
+          "example": "九時から十時まで勉強します。"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "「不去學校」最恰當的句子是？",
+          "options": [
+            "学校へ行きます。",
+            "学校へ行きません。",
+            "学校で読みます。"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：学校へ行きません。。"
+        },
+        {
+          "q": "要問「明天去學校嗎？」句尾應用？",
+          "options": [
+            "ますか",
+            "ません",
+            "まで"
+          ],
+          "answer": 0,
+          "explanation": "正確答案：ますか。"
+        },
+        {
+          "q": "「9時（　）10時まで」應選？",
+          "options": [
+            "を",
+            "から",
+            "と"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：から。"
+        },
+        {
+          "q": "「圖書館學日文」的動作場所助詞是？",
+          "options": [
+            "で",
+            "へ",
+            "を"
+          ],
+          "answer": 0,
+          "explanation": "正確答案：で。"
+        },
+        {
+          "q": "「和媽媽去超市」的「和」使用？",
+          "options": [
+            "に",
+            "と",
+            "まで"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：と。"
+        },
+        {
+          "q": "「雨」的讀音是？",
+          "options": [
+            "ゆき",
+            "あめ",
+            "かさ"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：あめ。"
+        },
+        {
+          "q": "「今日」的讀音是？",
+          "options": [
+            "きのう",
+            "あした",
+            "きょう"
+          ],
+          "answer": 2,
+          "explanation": "正確答案：きょう。"
+        },
+        {
+          "q": "第 2 篇作者下午在哪裡學習？",
+          "options": [
+            "在家裡",
+            "在圖書館",
+            "在研究室"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：在圖書館。"
+        },
+        {
+          "q": "第 3 篇新聞預報發布日期是？",
+          "options": [
+            "2026/11/13",
+            "2026/11/14",
+            "2026/11/15"
+          ],
+          "answer": 1,
+          "explanation": "正確答案：2026/11/14。"
+        },
+        {
+          "q": "「月曜日から金曜日まで」的意思是？",
+          "options": [
+            "星期一到星期五",
+            "星期一和星期五",
+            "星期五以後"
+          ],
+          "answer": 0,
+          "explanation": "正確答案：星期一到星期五。"
+        }
+      ]
+    }
+  ]
+}
