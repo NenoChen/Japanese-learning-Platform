@@ -1,0 +1,26 @@
+{
+  "name": "日々日本語 · 每日學習",
+  "short_name": "日々日本語",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f7f4",
+  "theme_color": "#f8f7f4",
+  "lang": "zh-Hant",
+  "id": "./",
+  "description": "每日 JLPT N5 日文閱讀、五十音、單字與測驗",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
