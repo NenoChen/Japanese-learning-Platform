@@ -1226,6 +1226,382 @@
           "explanation": "正確答案：星期一到星期五。"
         }
       ]
+    },
+    {
+      "id": "2026-11-16",
+      "date": "2026-11-16",
+      "day": 4,
+      "title": "用「有」與「也」讀懂今天的日本",
+      "level": "N5",
+      "articles": [
+        {
+          "title": "月曜日の予定",
+          "category": "必讀・核心文法 × 月份",
+          "sentences": [
+            {
+              "html": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>十一月<rt>じゅういちがつ</rt></ruby><ruby>十六日<rt>じゅうろくにち</rt></ruby>、<ruby>月曜日<rt>げつようび</rt></ruby>です。わたしは<ruby>朝<rt>あさ</rt></ruby><ruby>七時<rt>しちじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。<ruby>八時<rt>はちじ</rt></ruby>に<ruby>朝ご飯<rt>あさごはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>があります。<ruby>九時<rt>くじ</rt></ruby>から<ruby>十時<rt>じゅうじ</rt></ruby>まで、その<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。<ruby>十二月<rt>じゅうにがつ</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>があります。だから、<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>し<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+              "zh": "今天是 11 月 16 日，星期一。我早上七點起床，八點吃早餐。書桌上有一本日文書。我從九點到十點讀那本書。十二月有日文考試，所以我每天都稍微學習一點。"
+            }
+          ],
+          "note": ""
+        },
+        {
+          "title": "友達と本屋へ",
+          "category": "必讀・日常生活",
+          "sentences": [
+            {
+              "html": "<ruby>月曜日<rt>げつようび</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、わたしは<ruby>友達<rt>ともだち</rt></ruby>と<ruby>駅<rt>えき</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>小<rt>ちい</rt></ruby>さい<ruby>本屋<rt>ほんや</rt></ruby>があります。<ruby>本屋<rt>ほんや</rt></ruby>には<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>もあります。<ruby>友達<rt>ともだち</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しいノートを<ruby>買<rt>か</rt></ruby>います。わたしは<ruby>本<rt>ほん</rt></ruby>を<ruby>買<rt>か</rt></ruby>いません。わたしたちは<ruby>三時<rt>さんじ</rt></ruby>から<ruby>四時<rt>よじ</rt></ruby>までカフェで<ruby>勉強<rt>べんきょう</rt></ruby>します。カフェには<ruby>学生<rt>がくせい</rt></ruby>がたくさんいます。",
+              "zh": "星期一下午，我和朋友去車站。車站附近有一家小書店，書店裡也有日文書。朋友買一本新筆記本，我不買書。我們從三點到四點在咖啡館學習。咖啡館裡有很多學生。"
+            }
+          ],
+          "note": ""
+        },
+        {
+          "title": "日本の天気",
+          "category": "必讀・新聞 N5 改寫",
+          "sentences": [
+            {
+              "html": "これは<ruby>十一月<rt>じゅういちがつ</rt></ruby><ruby>十六日<rt>じゅうろくにち</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>の<ruby>天気予報<rt>てんきよほう</rt></ruby>です。<ruby>関東<rt>かんとう</rt></ruby>から<ruby>九州<rt>きゅうしゅう</rt></ruby>では、<ruby>晴<rt>は</rt></ruby>れの<ruby>所<rt>ところ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>最高気温<rt>さいこうきおん</rt></ruby>は<ruby>十九度<rt>じゅうきゅうど</rt></ruby>くらいです。<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>日本海側<rt>にほんかいがわ</rt></ruby>では<ruby>雨<rt>あめ</rt></ruby>や<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ります。<ruby>風<rt>かぜ</rt></ruby>も<ruby>強<rt>つよ</rt></ruby>いです。<ruby>東北<rt>とうほく</rt></ruby>の<ruby>日本海側<rt>にほんかいがわ</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>りの<ruby>所<rt>ところ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。<ruby>雨<rt>あめ</rt></ruby>の<ruby>所<rt>ところ</rt></ruby>もあります。",
+              "zh": "這是 11 月 16 日的日本天氣預報。從關東到九州，有很多地方是晴天。東京的最高氣溫大約是 19 度。北海道的日本海一側預計會有雨或雪，風也很強。東北的日本海一側多雲，也有些地方會下雨。"
+            }
+          ],
+          "note": ""
+        },
+        {
+          "title": "東京大学の図書館",
+          "category": "延伸・校園情境",
+          "sentences": [
+            {
+              "html": "<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>には<ruby>大<rt>おお</rt></ruby>きい<ruby>図書館<rt>としょかん</rt></ruby>があります。<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には<ruby>本<rt>ほん</rt></ruby>がたくさんあります。<ruby>月曜日<rt>げつようび</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>、<ruby>学生<rt>がくせい</rt></ruby>が<ruby>図書館<rt>としょかん</rt></ruby>にいます。<ruby>九時<rt>くじ</rt></ruby>から<ruby>授業<rt>じゅぎょう</rt></ruby>があります。<ruby>授業<rt>じゅぎょう</rt></ruby>のあとで、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>食堂<rt>しょくどう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。<ruby>食堂<rt>しょくどう</rt></ruby>にはカレーやパンがあります。<ruby>午後<rt>ごご</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かな<ruby>部屋<rt>へや</rt></ruby>で<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+              "zh": "東京大學有很大的圖書館。圖書館裡有很多書。星期一上午，學生在圖書館。九點起有課。下課之後，學生和朋友去食堂。食堂有咖哩和麵包。下午則在安靜的房間學日文。"
+            }
+          ],
+          "note": ""
+        },
+        {
+          "title": "研究室の一日",
+          "category": "延伸・研究室情境",
+          "sentences": [
+            {
+              "html": "<ruby>大学<rt>だいがく</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>には<ruby>顕微鏡<rt>けんびきょう</rt></ruby>があります。<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>には<ruby>小<rt>ちい</rt></ruby>さい<ruby>試料<rt>しりょう</rt></ruby>があります。<ruby>先生<rt>せんせい</rt></ruby>と<ruby>学生<rt>がくせい</rt></ruby>が<ruby>研究室<rt>けんきゅうしつ</rt></ruby>にいます。<ruby>学生<rt>がくせい</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>、<ruby>試料<rt>しりょう</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。<ruby>午後<rt>ごご</rt></ruby>は<ruby>装置<rt>そうち</rt></ruby>で<ruby>光<rt>ひかり</rt></ruby>を<ruby>測<rt>はか</rt></ruby>ります。<ruby>研究室<rt>けんきゅうしつ</rt></ruby>には<ruby>青<rt>あお</rt></ruby>いノートもあります。<ruby>学生<rt>がくせい</rt></ruby>はノートに<ruby>結果<rt>けっか</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。<ruby>今日<rt>きょう</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>実験<rt>じっけん</rt></ruby>があります。",
+              "zh": "大學研究室裡有顯微鏡。桌上有小小的樣品。老師與學生都在研究室。學生早上觀察樣品，下午使用儀器量測光。研究室裡也有藍色的筆記本。學生將結果寫在筆記本上。今天有新的實驗。"
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "words": [
+        {
+          "id": "w1",
+          "jp": "十一月",
+          "reading": "じゅういちがつ",
+          "meaning": "11 月",
+          "pos": "單字"
+        },
+        {
+          "id": "w2",
+          "jp": "十二月",
+          "reading": "じゅうにがつ",
+          "meaning": "12 月",
+          "pos": "單字"
+        },
+        {
+          "id": "w3",
+          "jp": "朝",
+          "reading": "あさ",
+          "meaning": "早上",
+          "pos": "單字"
+        },
+        {
+          "id": "w4",
+          "jp": "机",
+          "reading": "つくえ",
+          "meaning": "書桌",
+          "pos": "單字"
+        },
+        {
+          "id": "w5",
+          "jp": "上",
+          "reading": "うえ",
+          "meaning": "上方",
+          "pos": "單字"
+        },
+        {
+          "id": "w6",
+          "jp": "本",
+          "reading": "ほん",
+          "meaning": "書",
+          "pos": "單字"
+        },
+        {
+          "id": "w7",
+          "jp": "読みます",
+          "reading": "よみます",
+          "meaning": "閱讀",
+          "pos": "單字"
+        },
+        {
+          "id": "w8",
+          "jp": "試験",
+          "reading": "しけん",
+          "meaning": "考試",
+          "pos": "單字"
+        },
+        {
+          "id": "w9",
+          "jp": "あります",
+          "reading": "あります",
+          "meaning": "有（物品）",
+          "pos": "單字"
+        },
+        {
+          "id": "w10",
+          "jp": "友達",
+          "reading": "ともだち",
+          "meaning": "朋友",
+          "pos": "單字"
+        },
+        {
+          "id": "w11",
+          "jp": "駅",
+          "reading": "えき",
+          "meaning": "車站",
+          "pos": "單字"
+        },
+        {
+          "id": "w12",
+          "jp": "近く",
+          "reading": "ちかく",
+          "meaning": "附近",
+          "pos": "單字"
+        },
+        {
+          "id": "w13",
+          "jp": "本屋",
+          "reading": "ほんや",
+          "meaning": "書店",
+          "pos": "單字"
+        },
+        {
+          "id": "w14",
+          "jp": "います",
+          "reading": "います",
+          "meaning": "有（人／動物）",
+          "pos": "單字"
+        },
+        {
+          "id": "w15",
+          "jp": "晴れ",
+          "reading": "はれ",
+          "meaning": "晴天",
+          "pos": "單字"
+        },
+        {
+          "id": "w16",
+          "jp": "雪",
+          "reading": "ゆき",
+          "meaning": "雪",
+          "pos": "單字"
+        },
+        {
+          "id": "w17",
+          "jp": "図書館",
+          "reading": "としょかん",
+          "meaning": "圖書館",
+          "pos": "單字"
+        },
+        {
+          "id": "w18",
+          "jp": "実験",
+          "reading": "じっけん",
+          "meaning": "實驗・延伸",
+          "pos": "延伸"
+        }
+      ],
+      "series": {
+        "title": "月份 1–12 月",
+        "words": [
+          {
+            "jp": "一月",
+            "reading": "いちがつ",
+            "meaning": "1 月"
+          },
+          {
+            "jp": "二月",
+            "reading": "にがつ",
+            "meaning": "2 月"
+          },
+          {
+            "jp": "三月",
+            "reading": "さんがつ",
+            "meaning": "3 月"
+          },
+          {
+            "jp": "四月",
+            "reading": "しがつ",
+            "meaning": "4 月"
+          },
+          {
+            "jp": "五月",
+            "reading": "ごがつ",
+            "meaning": "5 月"
+          },
+          {
+            "jp": "六月",
+            "reading": "ろくがつ",
+            "meaning": "6 月"
+          },
+          {
+            "jp": "七月",
+            "reading": "しちがつ",
+            "meaning": "7 月"
+          },
+          {
+            "jp": "八月",
+            "reading": "はちがつ",
+            "meaning": "8 月"
+          },
+          {
+            "jp": "九月",
+            "reading": "くがつ",
+            "meaning": "9 月"
+          },
+          {
+            "jp": "十月",
+            "reading": "じゅうがつ",
+            "meaning": "10 月"
+          },
+          {
+            "jp": "十一月",
+            "reading": "じゅういちがつ",
+            "meaning": "11 月"
+          },
+          {
+            "jp": "十二月",
+            "reading": "じゅうにがつ",
+            "meaning": "12 月"
+          }
+        ]
+      },
+      "grammar": [
+        {
+          "pattern": "あります",
+          "meaning": "書、桌子等無生命物品「有、存在」",
+          "example": "机の上に本があります。"
+        },
+        {
+          "pattern": "います",
+          "meaning": "人或動物「有、在」",
+          "example": "図書館に学生がいます。"
+        },
+        {
+          "pattern": "～も",
+          "meaning": "名詞後接「も」，表示「也」",
+          "example": "日本語の本もあります。"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "机の上（ ）本があります。",
+          "options": [
+            "に",
+            "を",
+            "で"
+          ],
+          "answer": 0,
+          "explanation": "「有某物」的存在地點用「に」。"
+        },
+        {
+          "q": "カフェ（ ）勉強します。",
+          "options": [
+            "に",
+            "で",
+            "へ"
+          ],
+          "answer": 1,
+          "explanation": "進行學習動作的場所用「で」。"
+        },
+        {
+          "q": "友達（ ）駅へ行きます。",
+          "options": [
+            "と",
+            "を",
+            "に"
+          ],
+          "answer": 0,
+          "explanation": "和某人一起，用「と」。"
+        },
+        {
+          "q": "本屋には日本語の本（ ）あります。",
+          "options": [
+            "を",
+            "も",
+            "へ"
+          ],
+          "answer": 1,
+          "explanation": "「も」表示也有日文書。"
+        },
+        {
+          "q": "学生が図書館に（ ）。",
+          "options": [
+            "います",
+            "あります",
+            "食べます"
+          ],
+          "answer": 0,
+          "explanation": "學生是人，使用「います」。"
+        },
+        {
+          "q": "机の上に試料が（ ）。",
+          "options": [
+            "います",
+            "あります",
+            "行きます"
+          ],
+          "answer": 1,
+          "explanation": "試料是物品，使用「あります」。"
+        },
+        {
+          "q": "「十二月」的平假名是？",
+          "options": [
+            "じゅうにがつ",
+            "じゅうににち",
+            "にがつ"
+          ],
+          "answer": 0,
+          "explanation": "十二月＝じゅうにがつ。"
+        },
+        {
+          "q": "「四月」的平假名是？",
+          "options": [
+            "よんがつ",
+            "しがつ",
+            "しちがつ"
+          ],
+          "answer": 1,
+          "explanation": "四月特殊讀法為「しがつ」。"
+        },
+        {
+          "q": "新聞篇預報北海道日本海側可能出現什麼？",
+          "options": [
+            "雨や雪",
+            "晴れだけ",
+            "台風"
+          ],
+          "answer": 0,
+          "explanation": "原文預報北海道日本海側有雨或雪。"
+        },
+        {
+          "q": "九時（ ）十時まで本を読みます。",
+          "options": [
+            "から",
+            "が",
+            "と"
+          ],
+          "answer": 0,
+          "explanation": "「から～まで」表示從～到～。"
+        }
+      ]
     }
   ]
 }
