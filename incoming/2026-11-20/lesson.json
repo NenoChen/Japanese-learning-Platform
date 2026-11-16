@@ -1,0 +1,381 @@
+{
+  "id": "2026-11-20",
+  "date": "2026-11-20",
+  "day": 8,
+  "title": "位置與存在：東西在哪裡",
+  "level": "N5",
+  "articles": [
+    {
+      "title": "私の部屋",
+      "category": "必讀",
+      "sentences": [
+        {
+          "html": "<ruby>私<rt>わたし</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>には<ruby>机<rt>つくえ</rt></ruby>があります。<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>があります。<ruby>椅子<rt>いす</rt></ruby>は<ruby>机<rt>つくえ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にあります。かばんは<ruby>椅子<rt>いす</rt></ruby>の<ruby>下<rt>した</rt></ruby>にあります。<ruby>猫<rt>ねこ</rt></ruby>は<ruby>窓<rt>まど</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにいます。",
+          "zh": "我房間有桌子。書在桌上，椅子在桌前，包包在椅子下，貓在窗邊。"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "title": "駅の近く",
+      "category": "必讀",
+      "sentences": [
+        {
+          "html": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にコンビニがあります。コンビニの<ruby>隣<rt>となり</rt></ruby>に<ruby>小<rt>ちい</rt></ruby>さい<ruby>店<rt>みせ</rt></ruby>があります。<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にパンがあります。<ruby>私<rt>わたし</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>でパンを<ruby>買<rt>か</rt></ruby>います。",
+          "zh": "車站前有便利商店，旁邊有小店。店裡有麵包，我在店裡買麵包。"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "title": "日本の地図",
+      "category": "必讀",
+      "sentences": [
+        {
+          "html": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>地図<rt>ちず</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。<ruby>北海道<rt>ほっかいどう</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>の<ruby>北<rt>きた</rt></ruby>にあります。<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>本州<rt>ほんしゅう</rt></ruby>にあります。<ruby>日本<rt>にほん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>には<ruby>沖縄<rt>おきなわ</rt></ruby>があります。<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>地図<rt>ちず</rt></ruby>を<ruby>見<rt>み</rt></ruby>ましょう。",
+          "zh": "看日本地圖。北海道在日本北方，東京在本州，日本南方有沖繩。旅行前看看地圖吧。"
+        }
+      ],
+      "note": "資料型／情境閱讀，非即時新聞"
+    },
+    {
+      "title": "大学の建物",
+      "category": "延伸",
+      "sentences": [
+        {
+          "html": "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>隣<rt>となり</rt></ruby>にあります。<ruby>先生<rt>せんせい</rt></ruby>は<ruby>研究室<rt>けんきゅうしつ</rt></ruby>にいます。<ruby>私<rt>わたし</rt></ruby>は<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>読み<rt>よ</rt></ruby>ます。",
+          "zh": "圖書館在教室旁。老師在研究室。我在圖書館裡看書。"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "title": "実験室の机",
+      "category": "延伸",
+      "sentences": [
+        {
+          "html": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>試料<rt>しりょう</rt></ruby>があります。<ruby>机<rt>つくえ</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>箱<rt>はこ</rt></ruby>があります。<ruby>箱<rt>はこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にはノートがあります。<ruby>先生<rt>せんせい</rt></ruby>は<ruby>机<rt>つくえ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にいます。",
+          "zh": "桌上有樣品，桌下有箱子，箱內有筆記本。老師在桌前。"
+        }
+      ],
+      "note": ""
+    }
+  ],
+  "words": [
+    {
+      "id": "w1",
+      "jp": "友達",
+      "reading": "ともだち",
+      "pos": "名詞",
+      "meaning": "朋友"
+    },
+    {
+      "id": "w2",
+      "jp": "本",
+      "reading": "ほん",
+      "pos": "名詞",
+      "meaning": "書"
+    },
+    {
+      "id": "w3",
+      "jp": "図書館",
+      "reading": "としょかん",
+      "pos": "名詞",
+      "meaning": "圖書館"
+    },
+    {
+      "id": "w4",
+      "jp": "朝",
+      "reading": "あさ",
+      "pos": "名詞",
+      "meaning": "早晨"
+    },
+    {
+      "id": "w5",
+      "jp": "夜",
+      "reading": "よる",
+      "pos": "名詞",
+      "meaning": "夜晚"
+    },
+    {
+      "id": "w6",
+      "jp": "駅",
+      "reading": "えき",
+      "pos": "名詞",
+      "meaning": "車站"
+    },
+    {
+      "id": "w7",
+      "jp": "店",
+      "reading": "みせ",
+      "pos": "名詞",
+      "meaning": "商店"
+    },
+    {
+      "id": "w8",
+      "jp": "天気",
+      "reading": "てんき",
+      "pos": "名詞",
+      "meaning": "天氣"
+    },
+    {
+      "id": "w9",
+      "jp": "寒い",
+      "reading": "さむい",
+      "pos": "い形容詞",
+      "meaning": "寒冷"
+    },
+    {
+      "id": "w10",
+      "jp": "暑い",
+      "reading": "あつい",
+      "pos": "い形容詞",
+      "meaning": "炎熱"
+    },
+    {
+      "id": "w11",
+      "jp": "新しい",
+      "reading": "あたらしい",
+      "pos": "い形容詞",
+      "meaning": "新的"
+    },
+    {
+      "id": "w12",
+      "jp": "静か",
+      "reading": "しずか",
+      "pos": "な形容詞",
+      "meaning": "安靜"
+    },
+    {
+      "id": "w13",
+      "jp": "読みます",
+      "reading": "よみます",
+      "pos": "動詞",
+      "meaning": "閱讀"
+    },
+    {
+      "id": "w14",
+      "jp": "行きます",
+      "reading": "いきます",
+      "pos": "動詞",
+      "meaning": "去"
+    },
+    {
+      "id": "w15",
+      "jp": "食べます",
+      "reading": "たべます",
+      "pos": "動詞",
+      "meaning": "吃"
+    },
+    {
+      "id": "w16",
+      "jp": "飲みます",
+      "reading": "のみます",
+      "pos": "動詞",
+      "meaning": "喝"
+    },
+    {
+      "id": "w17",
+      "jp": "買います",
+      "reading": "かいます",
+      "pos": "動詞",
+      "meaning": "買"
+    },
+    {
+      "id": "w18",
+      "jp": "見ます",
+      "reading": "みます",
+      "pos": "動詞",
+      "meaning": "看"
+    }
+  ],
+  "series": {
+    "title": "方位系列",
+    "words": [
+      {
+        "jp": "上",
+        "reading": "うえ",
+        "meaning": "上"
+      },
+      {
+        "jp": "下",
+        "reading": "した",
+        "meaning": "下"
+      },
+      {
+        "jp": "前",
+        "reading": "まえ",
+        "meaning": "前"
+      },
+      {
+        "jp": "後ろ",
+        "reading": "うしろ",
+        "meaning": "後"
+      },
+      {
+        "jp": "中",
+        "reading": "なか",
+        "meaning": "裡面"
+      },
+      {
+        "jp": "外",
+        "reading": "そと",
+        "meaning": "外面"
+      },
+      {
+        "jp": "右",
+        "reading": "みぎ",
+        "meaning": "右"
+      },
+      {
+        "jp": "左",
+        "reading": "ひだり",
+        "meaning": "左"
+      },
+      {
+        "jp": "隣",
+        "reading": "となり",
+        "meaning": "旁邊"
+      },
+      {
+        "jp": "北",
+        "reading": "きた",
+        "meaning": "北"
+      },
+      {
+        "jp": "南",
+        "reading": "みなみ",
+        "meaning": "南"
+      },
+      {
+        "jp": "東",
+        "reading": "ひがし",
+        "meaning": "東"
+      },
+      {
+        "jp": "西",
+        "reading": "にし",
+        "meaning": "西"
+      }
+    ]
+  },
+  "grammar": [
+    {
+      "pattern": "～の上／下／中／前／後ろ",
+      "meaning": "參照當日文章例句",
+      "example": ""
+    },
+    {
+      "pattern": "～にあります／います",
+      "meaning": "參照當日文章例句",
+      "example": ""
+    },
+    {
+      "pattern": "～の隣",
+      "meaning": "在旁邊",
+      "example": ""
+    }
+  ],
+  "quiz": [
+    {
+      "q": "「友達」的讀音是？",
+      "options": [
+        "ともだち",
+        "ほん",
+        "としょかん"
+      ],
+      "answer": 0,
+      "explanation": "友達：ともだち，朋友。"
+    },
+    {
+      "q": "「本」的讀音是？",
+      "options": [
+        "ともだち",
+        "としょかん",
+        "ほん"
+      ],
+      "answer": 2,
+      "explanation": "本：ほん，書。"
+    },
+    {
+      "q": "「図書館」的讀音是？",
+      "options": [
+        "ほん",
+        "としょかん",
+        "ともだち"
+      ],
+      "answer": 1,
+      "explanation": "図書館：としょかん，圖書館。"
+    },
+    {
+      "q": "「朝」的讀音是？",
+      "options": [
+        "あさ",
+        "ともだち",
+        "ほん"
+      ],
+      "answer": 0,
+      "explanation": "朝：あさ，早晨。"
+    },
+    {
+      "q": "「夜」的讀音是？",
+      "options": [
+        "ともだち",
+        "ほん",
+        "よる"
+      ],
+      "answer": 2,
+      "explanation": "夜：よる，夜晚。"
+    },
+    {
+      "q": "「駅」的讀音是？",
+      "options": [
+        "ほん",
+        "えき",
+        "ともだち"
+      ],
+      "answer": 1,
+      "explanation": "駅：えき，車站。"
+    },
+    {
+      "q": "「店」的讀音是？",
+      "options": [
+        "みせ",
+        "ともだち",
+        "ほん"
+      ],
+      "answer": 0,
+      "explanation": "店：みせ，商店。"
+    },
+    {
+      "q": "「天気」的讀音是？",
+      "options": [
+        "ともだち",
+        "ほん",
+        "てんき"
+      ],
+      "answer": 2,
+      "explanation": "天気：てんき，天氣。"
+    },
+    {
+      "q": "本日文法「參照當日文章例句」對應哪個句型？",
+      "options": [
+        "～の上／下／中／前／後ろ",
+        "～ではありません",
+        "～をください"
+      ],
+      "answer": 0,
+      "explanation": "～の上／下／中／前／後ろ：參照當日文章例句"
+    },
+    {
+      "q": "本日文法「參照當日文章例句」對應哪個句型？",
+      "options": [
+        "～にあります／います",
+        "～ではありません",
+        "～をください"
+      ],
+      "answer": 0,
+      "explanation": "～にあります／います：參照當日文章例句"
+    }
+  ]
+}
